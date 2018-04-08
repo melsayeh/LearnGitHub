@@ -5,4 +5,8 @@ package com.example.android.learngithub;
  */
 
 public class SecondFile {
+    private void third(){
+
+    }
 }
+
