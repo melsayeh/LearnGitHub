@@ -14,4 +14,11 @@ public class MainActivity extends AppCompatActivity {
     public void FirstCommit(){
         //Initial commit
     }
+
+    public void SecondCommit(){
+        //Here is second commit
+
+        int i = 0;
+        i = i + 1;
+    }
 }
